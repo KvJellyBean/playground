@@ -1,3 +1,4 @@
+package Uva;
 // 12250
 class Main {
     public static void main(String[] args) {
