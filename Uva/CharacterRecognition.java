@@ -1,3 +1,4 @@
+package Uva;
 import java.util.Scanner;
 
 class Main {
